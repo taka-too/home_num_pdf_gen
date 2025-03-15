@@ -26,7 +26,8 @@
 | **Y 位置** | タイトルの Y 座標（0〜50） | `10` |
 | **出力ファイル名** | ダウンロード時の PDF ファイル名 | `generated_document.pdf` |
 
-![(https://github.com/user-attachments/assets/e00235a2-03e4-4cca-8357-79b730d940b7)](https://github.com/user-attachments/assets/e00235a2-03e4-4cca-8357-79b730d940b7)
+![(https://github.com/user-attachments/assets/668193cf-ceb8-4c18-b2d7-077c914aae26)](https://github.com/user-attachments/assets/668193cf-ceb8-4c18-b2d7-077c914aae26)
+
 
 ---
 
